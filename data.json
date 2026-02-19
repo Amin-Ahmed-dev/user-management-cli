@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "firstname": "Amin",
+    "lastname": "Ahmed",
+    "age": 19,
+    "city": "Giza"
+  },
+  {
+    "id": 2,
+    "firstname": "Asser",
+    "lastname": "Waleed",
+    "age": 17,
+    "city": "Giza"
+  },
+  {
+    "id": 3,
+    "firstname": "Basem",
+    "lastname": "Mahmoud",
+    "age": 17,
+    "city": "Cairo"
+  },
+  {
+    "id": 4,
+    "firstname": "Ayman",
+    "lastname": "Ashraf",
+    "age": 18,
+    "city": "Aswan"
+  },
+  {
+    "id": 5,
+    "firstname": "Ahmed",
+    "lastname": "Yasser",
+    "age": 17,
+    "city": "Alexandria"
+  },
+  {
+    "id": 6,
+    "firstname": "Ahmed",
+    "lastname": "Hassan",
+    "age": 17,
+    "city": "Giza"
+  },
+  {
+    "id": 7,
+    "firstname": "Badr",
+    "lastname": "Hassan",
+    "age": 16,
+    "city": "Giza"
+  },
+  {
+    "id": 8,
+    "firstname": "Ahmed",
+    "lastname": "Hany",
+    "age": 18,
+    "city": "Cairo"
+  },
+  {
+    "id": 9,
+    "firstname": "Taim",
+    "lastname": "Essam",
+    "age": 16,
+    "city": "Aswan"
+  },
+  {
+    "id": 10,
+    "firstname": "Ahmed",
+    "lastname": "Sameh",
+    "age": 17,
+    "city": "Qena"
+  }
+]
